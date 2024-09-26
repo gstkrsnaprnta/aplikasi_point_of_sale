@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:aplikasi_point_of_sale/src/core/assets/assets.gen.dart';
 import 'package:aplikasi_point_of_sale/src/core/commons/widgets/elevated_button.widget.dart';
-import 'package:aplikasi_point_of_sale/src/core/commons/widgets/space_widgets.dart';
+import 'package:aplikasi_point_of_sale/src/core/commons/widgets/space_widget.dart';
 import 'package:aplikasi_point_of_sale/src/core/constants/colors.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
