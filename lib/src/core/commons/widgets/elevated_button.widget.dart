@@ -1,5 +1,6 @@
-import 'package:aplikasi_point_of_sale/src/core/constants/colors.dart';
 import 'package:flutter/material.dart';
+
+import '../../constants/colors.dart';
 
 enum ButtonStyle { filled, outlined }
 
